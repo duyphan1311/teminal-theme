@@ -49,14 +49,6 @@
                     "type": "git"
                 },
                 {
-                    "background": "#ffff66",
-                    "foreground": "#111111",
-                    "powerline_symbol": "",
-                    "style": "powerline",
-                    "template": "  ",
-                    "type": "root"
-                },
-                {
                     "background": "#906cff",
                     "foreground": "#ffffff",
                     "properties": {
