@@ -177,7 +177,7 @@
                 },
                 {
                     "background": "#1BD760",
-                    "foreground": "#111111",
+                    "foreground": "#ffffff",
                     "invert_powerline": true,
                     "powerline_symbol": "\ue0b2",
                     "properties": {
@@ -190,7 +190,7 @@
                 },
                 {
                     "background": "#4caf50",
-                    "foreground": "#111111",
+                    "foreground": "#ffffff",
                     "invert_powerline": true,
                     "leading_diamond": "\ue0b2",
                     "style": "diamond",
